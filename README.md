@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nitin Hema Raj</h1>
-<h3 align="center">A passionate Artificial Intelligence and Machine Learning aficionado.</h3>
+<h1 align="center">Say Hello Nitin Hema Raj :)</h1>
+<h3 align="center">A passionate Artificial Intelligence and Machine Learning aficionado & a stormy hooper</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitinhemaraj&label=Profile%20views&color=0e75b6&style=flat" alt="nitinhemaraj" /> </p>
 
