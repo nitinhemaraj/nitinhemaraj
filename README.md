@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/nitinhemaraj" target="blank"><img src="https://img.shields.io/twitter/follow/nitinhemaraj?logo=twitter&style=for-the-badge" alt="nitinhemaraj" /></a> </p>
 
-- 🔭 I’m currently working on a project **Artificial Pollinator**
-- 🌱 I’m currently learning and exploring the domain of **Machine Learning and Data Analysis**
+- 🔭 I’m currently working on a project **Artificial Pollinator.**
+- 🌱 I’m currently learning and exploring the domain of **Machine Learning and Data Analysis.**
 - 👯 I’m looking to collaborate on **any projects worth spending time on :)**
-- 📝 I regularly write blogs on [https://hashnode.com/@nitinhemaraj](https://hashnode.com/@nitinhemaraj)
-- 💬 Ask me about **AI, ML, a topic of your desire**
-- 📫 How to reach me **nitinhemaraj@gmail.com**
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/132qraHvsj4bPtICHhcbW3-Wd3QkOuuD0/view?usp=drive_link)
+- 📝 I regularly write blogs on my [Hashnode](https://hashnode.com/@nitinhemaraj) profile.
+- 💬 Ask me about **any topic of your desire. I'll get back to you with it :)**
+- 📫 How to reach me? Here you go, **nitinhemaraj@gmail.com**
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/132qraHvsj4bPtICHhcbW3-Wd3QkOuuD0/view?usp=drive_link).
 - ⚡ Fun fact **You think I'm a serious guy with an attitude pushing onto you? You bet your ass I am.
                  I'm laughing to even type that ;)**
 
