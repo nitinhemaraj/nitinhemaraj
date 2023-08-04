@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **any projects worth spending time on :)**
 
-- 📝 I regularly write articles on [https://hashnode.com/@nitinhemaraj](https://hashnode.com/@nitinhemaraj)
+- 📝 I regularly write blogs on [https://hashnode.com/@nitinhemaraj](https://hashnode.com/@nitinhemaraj)
 
 - 💬 Ask me about **AI, ML, a topic of your desire**
 
@@ -21,7 +21,8 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/132qraHvsj4bPtICHhcbW3-Wd3QkOuuD0/view?usp=drive_link](https://drive.google.com/file/d/132qraHvsj4bPtICHhcbW3-Wd3QkOuuD0/view?usp=drive_link)
 
-- ⚡ Fun fact **You think I'm a serious guy with an attitude pushing onto you? You bet your ass I am. I'm laughing to even type that ;)**
+- ⚡ Fun fact **You think I'm a serious guy with an attitude pushing onto you? You bet your ass I am.
+                 I'm laughing to even type that ;)**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
